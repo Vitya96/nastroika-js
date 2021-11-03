@@ -6,4 +6,4 @@ const logged = () => {
 }
 
 
-
+console.log("Privat vasuli");
