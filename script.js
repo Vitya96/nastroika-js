@@ -4,5 +4,5 @@ const width = 11;
 
 const personAge = 20;
 console.log('personAge', personAge);
-console.log("commits")
-//izmeneniyaggg
+console.log("commits");
+//izmeneniya
